@@ -42,8 +42,8 @@ export function Sidebar() {
           <div className="flex items-center gap-2 p-6 border-b">
             <Shield className="h-8 w-8 text-primary" />
             <div>
-              <h1 className="text-xl font-bold">Curacel Grow</h1>
-              <p className="text-sm text-muted-foreground">Developer Portal</p>
+              <h1 className="text-xl font-bold">MEDMO AI</h1>
+            
             </div>
           </div>
 
