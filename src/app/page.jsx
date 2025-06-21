@@ -1,3 +1,5 @@
+"use client";
+import React from "react";
 import { Button } from "@/components/ui/button";
 import { Bot, Building2, Zap, ArrowRight, Play } from "lucide-react";
 
