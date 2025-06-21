@@ -1,3 +1,4 @@
+"use client";
 import { useRouter } from "next/router";
 import { useState, useEffect } from "react";
 import { apiService } from "@/lib/api";
@@ -69,7 +70,9 @@ export default function ProductDetailPage() {
       <MainLayout>
         <div className="text-center py-12">
           <h1 className="text-2xl font-bold mb-4">Product Not Found</h1>
-          <Button onClick={() => router.push("/products")}>Back to Products</Button>
+          <Button onClick={() => router.push("/products")}>
+            Back to Products
+          </Button>
         </div>
       </MainLayout>
     );
