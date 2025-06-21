@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "medmo-ai",
+=======
+  "name": "medmo_ai",
+>>>>>>> 61488f358e27e6e8b05207df330f7a8c1fcb9d8a
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -19,9 +23,14 @@
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "date-fns": "^4.1.0",
+<<<<<<< HEAD
     "lucide-react": "^0.522.0",
     "next": "15.3.4",
     "next-themes": "^0.4.6",
+=======
+    "lucide-react": "^0.518.0",
+    "next": "15.3.4",
+>>>>>>> 61488f358e27e6e8b05207df330f7a8c1fcb9d8a
     "react": "^19.0.0",
     "react-day-picker": "^9.7.0",
     "react-dom": "^19.0.0",
