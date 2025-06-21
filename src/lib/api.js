@@ -1,7 +1,7 @@
 import axios from "axios";
 
-const API_BASE_URL = process.env.CURACEL_GROW_URL; // your API URL env var
-const BEARER_TOKEN = process.env.CURACEL_GROW_TOKEN; // your token env var
+const API_BASE_URL = process.env.CURACEL_GROW_URL;
+const BEARER_TOKEN = process.env.CURACEL_GROW_TOKEN;
 
 class ApiService {
   constructor() {
